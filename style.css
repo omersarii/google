@@ -1,0 +1,75 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+.conteiner{
+    
+    width: 1200px;
+    padding: 20px;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+.logo{
+    width: 500px;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+.ara{
+    background-color: #EEEEEE;
+    width: 1190px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+
+}
+.input{
+    width: 400px;;
+}
+.linkler{
+    width: 1200px;
+    margin-left: auto;
+    margin-right: auto;
+    float: left;
+    margin-top: 5px;
+    text-align: center;
+}
+.left{
+    width:39% ;
+    height: 70px;
+    background-color:#7EE5DA;
+    float: left;
+    margin-right: 3px;
+    padding-top: 10px;
+}
+.center{
+    width: 20%;
+    height: 73px;
+    background-color:#70CCC2;
+    float: left;
+    margin-right: 4px;
+    font-size: 14px;
+    padding-top: 7px;
+}
+.right{
+    width: 40%;
+    height: 80px;
+    background-color:#62B3AA;
+    float: left;
+    margin-right: 3px;
+    font-size: 14px;
+}
+.footer{
+    width: 1200px;
+    height: 50px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    margin-top: 10px;
+    font-size: 15px;
+}
+.clear{
+    clear: both;
+}
